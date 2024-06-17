@@ -1,0 +1,34 @@
+Sum Even Numbers
+
+Write a function sumOfEvens(arr),
+which takes an array arr as an argument.
+This function should return a sum of every even number in the array.
+
+Instructions:
+If the input array is empty or there are no even numbers,
+then return 0.
+The input array will contain only numbers.
+Example test cases
+sumOfEvens([1, 1, 1, 2, 2, 2, 3, 3, 3]);
+// Output: 6
+sumOfEvens([]);
+// Output: 0
+sumOfEvens([-5, 0, 5, -4, 1, 6, -3, 2, 7]);
+// Output: 8
+
+Hint:
+You can use the built-in method .reduce() or a for loop.
+Make sure you export the function for writing the tests.
+
+Challenges:
+Sums up even numbers in a simple array.
+Return 0 if there are no even numbers.
+Handle an array with only one even number.
+Handle an array with only one odd number.
+Return 0 for an empty array.
+Sums up even numbers in an array with negative numbers.
+Sums up even numbers in an array with both positive and negative numbers.
+Handle an array with all even numbers.
+Handle an array with all odd numbers.
+Sums up even numbers in an array with duplicates.
+Handle an array with one positive even number and one negative even number.
