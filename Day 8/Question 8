@@ -1,0 +1,32 @@
+Q. Sum every third number
+
+Write a function sumOfThirds(arr),
+which takes an array arr as an argument.
+This function should return a sum of every third
+number in the array,
+starting from the first one.
+
+Instructions
+If the input array is empty or contains
+less than 3 numbers then return 0.
+The input array will contain only numbers.
+
+Example test cases
+sumOfThirds([1, 1, 1, 2, 2, 2, 3, 3, 3]); // Output: 6
+sumOfThirds([]); // Output: 0
+sumOfThirds([-5, 0, 5, -4, 1, 6, -3, 2, 7]); // Output: -12
+
+Hints
+You can use the built-in method .reduce().
+
+Challenges:
+Sums every third number in a simple array.
+Sums every third number in an array with non-consecutive elements.
+Sums every third number in an array with repeated elements.
+Sums every third number in an array with negative numbers.
+Return zero if there are fewer than three elements in the array.
+Return zero if the array is empty.
+Return zero if all elements in the array are the same.
+Return zero if the array only has two unique elements.
+Return the correct sum for an array with 1000 elements.
+Sums the correct values for an array with decimals.
