@@ -1,0 +1,24 @@
+Remove all whitespaces
+
+In this coding challenge,
+you will be implementing a function called removeWhitespaces(string)
+that takes a string as the input.
+The function should return the string with all the whitespace removed.
+
+Instructions:
+If the input string is empty, then return an input string.
+Remember to account for \n and \t.
+
+Example test cases
+removeWhitespaces('Hello,   World!'); // Output: 'Hello,World!'
+removeWhitespaces('  This is a sentence.\nIt contains some whitespace.  ');
+// Output: 'Thisisasentence.Itcontainssomewhitespace.'
+removeWhitespaces('\t  \n\n'); // Output: ''
+
+Challenge:
+Remove all whitespace from a string.
+Return an empty string when given an empty string.
+Return the same string when given a string with no whitespace.
+Ignore leading and trailing whitespace.
+Handle strings with only whitespace characters.
+Handle strings with multiple consecutive whitespace characters.
