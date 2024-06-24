@@ -1,0 +1,17 @@
+Using spread operator in function parameter
+
+In this lab, you will create a JavaScript function called sum
+that uses the spread operator when defining the paramemter args to accept
+any number of arguments and calculates their sum.
+The function should be exported for testing purposes.
+
+JavaScript's spread operator (...) allows you to expand iterable
+elements like arrays or strings. It's useful when you want to collect any number
+of arguments passed to a function or when you want to spread elements among
+different arrays or objects.
+
+Challenge:
+Create a function named sum.
+Use the spread operator in the sum function's definition to accept n number of arguments.
+Calculate the sum of all passed arguments.
+Export the sum function using ESM syntax.
