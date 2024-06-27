@@ -1,0 +1,23 @@
+Map, Filter, and Reduce Lab
+
+In this lab, you will implement your own map,
+filter, and reduce functions in JavaScript.
+These functions are commonly used for array manipulation in JavaScript.
+Map, filter, and reduce functions are higher-order functions that accept a
+callback function as an argument and apply that function to the
+elements of the input array in different ways.
+
+By the end of this lab, you should have 3 functional
+implementations for map, filter, and reduce.
+
+Make sure to export all the functions using ESM export.
+
+Challenge:
+Export the myMap, myFilter, and myReduce functions as named exports from index.js using ESM syntax.
+Create a map function myMap in index.js that accepts an array and a callback function as arguments
+and returns a new array after applying the callback function to each element of the original array.
+Create a filter function myFilter in index.js that accepts an array and a callback function as arguments
+and returns a new array consisting of elements that meet the condition specified in the callback function.
+Create a reduce function myReduce in index.js that accepts an array,
+a callback function, and an optional initialValue as arguments, 
+and returns a single value after applying the callback function to each element of the array.
