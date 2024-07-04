@@ -21,3 +21,11 @@ You should start by converting both strings to either lowercase or UPPERCASE.
 This will make it easier to compare them.
 Once both strings are in the same case, you can find a way to use
 .sort() method on them. Keep in mind that .sort() can only be used on arrays.
+
+Challenge:
+areAnagrams should return true for single words.
+areAnagrams should return true for anagram words with spaces.
+areAnagrams should return true for anagram words with spaces.
+areAnagrams should return true for anagram digits.
+areAnagrams should return false for non-anagram words.
+areAnagrams should return false for non-anagram words.
