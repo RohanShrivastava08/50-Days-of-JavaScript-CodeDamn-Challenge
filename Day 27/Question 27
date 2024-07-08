@@ -1,0 +1,30 @@
+First non-repeating character
+
+Write a function findCharacter(str), which takes a string str as the argument.
+The function should return the first non-repeating character.
+
+Instructions
+If no such character is found, return null.
+The input string str will not contain whitespace.
+Example test cases
+findCharacter("hello"); // Output: "h"
+findCharacter("abbcddee"); // Output: "a"
+findCharacter("aabbcc"); // Output: null
+
+Hints
+You should start by building a frequency counter object.
+
+Challenge:
+FindCharacter return the first non-repeating character - 1
+FindCharacter return the first non-repeating character - 2
+FindCharacter return the first non-repeating character - 3
+FindCharacter return the first non-repeating character - 4
+FindCharacter return the first non-repeating character - 5
+FindCharacter return undefined if all characters repeat - 1
+FindCharacter return undefined if all characters repeat - 2
+FindCharacter return undefined if all characters repeat - 3
+FindCharacter ignore whitespace - 1
+FindCharacter ignore whitespace - 2
+FindCharacter is case sensitive - 1
+FindCharacter is case sensitive - 2
+FindCharacter is case sensitive - 3
