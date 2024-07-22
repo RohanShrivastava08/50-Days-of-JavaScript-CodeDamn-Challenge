@@ -1,0 +1,12 @@
+JavaScript String Methods Lab
+
+In this lab, you will practice using JavaScript string methods by implementing
+four different functions that manipulate and analyze strings.
+Use ESM syntax to create and export the functions from your index.js file.
+Work directly within the provided boilerplates to complete the challenges!
+
+Challenges:
+Create a function reverseString that takes a string as an argument and returns the reversed string.
+Create a function capitalizeFirstLetters that takes a string as an argument and capitalizes the first letter of each word.
+Create a function findLongestWord that takes a string as an argument and returns the longest word.
+Create a function wordCount that takes a string as an argument and returns the number of words in the string.
