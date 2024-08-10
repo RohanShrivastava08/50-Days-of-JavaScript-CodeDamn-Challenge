@@ -28,6 +28,7 @@ Feel free to explore each file to see the solutions and the evolution of my skil
 
 - I’m proud to share that I have completed the challenge and received a certificate from CodeDamn! 🎓
 - 🏆 You can view it here:
+- 
 ![Completion Certificate](https://github.com/user-attachments/assets/496e5531-2aed-4351-a698-380bc812620e)
 
 
@@ -68,4 +69,4 @@ Twitter: @rohan_sh0808
 ## 🙌 Acknowledgements
 
 A huge thank you to CodeDamn for the amazing challenge and learning experience! 🙏👏
-
+Have learnt alot of JavaScript from here!
